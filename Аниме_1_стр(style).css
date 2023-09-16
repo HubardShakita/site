@@ -1,0 +1,52 @@
+.vidiki{
+    border: 5px solid;
+    border-color: rgb(255, 255, 255);
+}
+
+.ThPoster{
+    border: 3px solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+#ppp{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+P{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+img{
+    border-radius: 15px;
+}
+
+body{
+    background-image: url(https://foni.club/uploads/posts/2023-01/1673335328_foni-club-p-oboi-anime-magicheskaya-bitva-manga-3.jpg);
+    background-attachment: scroll;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 90px 0px;
+}
+
+form{
+    color: white;
+}
+
+#charactersss{
+    width: 10%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+input{
+    width: 10%;
+    padding: 10px;
+    border-radius: 10px;
+}
